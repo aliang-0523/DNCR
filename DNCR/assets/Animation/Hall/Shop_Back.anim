@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Shop_Back",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.483333333333333,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Bg_Shop_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -165.5,
+                259
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                520,
+                259
+              ]
+            }
+          ]
+        }
+      },
+      "Bg_Shop_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                165.5,
+                259
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                830,
+                259
+              ]
+            }
+          ]
+        }
+      },
+      "Bg_Shop_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.4833333333333334,
+              "value": [
+                165.5,
+                -34
+              ]
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": [
+                833,
+                -34
+              ]
+            }
+          ]
+        }
+      },
+      "Bg_Shop_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.4833333333333334,
+              "value": [
+                -165.5,
+                -34
+              ]
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": [
+                526,
+                -34
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

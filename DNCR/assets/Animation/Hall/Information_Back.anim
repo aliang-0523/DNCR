@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Information_Back",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.25,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "information_0": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                369
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                745,
+                369
+              ]
+            }
+          ]
+        }
+      },
+      "information_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                0,
+                283
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                745,
+                283
+              ]
+            }
+          ]
+        }
+      },
+      "Shujutu": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.25,
+              "value": [
+                0,
+                -53
+              ]
+            },
+            {
+              "frame": 5.25,
+              "value": [
+                742,
+                -53
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

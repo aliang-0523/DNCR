@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ui",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6.016666666666667,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Matching": {
+        "props": {
+          "active": [],
+          "scaleX": [],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                292
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -753,
+                292
+              ]
+            }
+          ]
+        }
+      },
+      "FriendPK": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                0,
+                46
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                -758,
+                46
+              ]
+            }
+          ]
+        }
+      },
+      "Shop": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                -133,
+                -200
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -871,
+                -200
+              ]
+            }
+          ]
+        }
+      },
+      "Set": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                228,
+                -200
+              ]
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": [
+                -519,
+                -200
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

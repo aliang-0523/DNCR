@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pipeiwancheng",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.083333333333333,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BackGround_Pipei_0": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                909,
+                86
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                598,
+                341
+              ]
+            }
+          ]
+        }
+      },
+      "BackGround_Pipei_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -156,
+                1232
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                151,
+                980
+              ]
+            }
+          ]
+        }
+      },
+      "Title": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 2.0833333333333335,
+              "value": 4
+            },
+            {
+              "frame": 5.083333333333333,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 2.0833333333333335,
+              "value": 4
+            },
+            {
+              "frame": 5.083333333333333,
+              "value": 1
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

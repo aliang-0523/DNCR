@@ -1,0 +1,72 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Leibie",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 7.533333333333333,
+  "sample": 60,
+  "speed": 5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            375,
+            1461
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            375,
+            1007.2
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 6.55,
+          "value": 255
+        },
+        {
+          "frame": 7.533333333333333,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "Leibie": {
+        "props": {
+          "position": []
+        }
+      },
+      "NO": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.1
+            },
+            {
+              "frame": 3.4166666666666665,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.1
+            },
+            {
+              "frame": 3.4166666666666665,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

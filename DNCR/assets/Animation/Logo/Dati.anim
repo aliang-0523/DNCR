@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Dati",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 12,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "User/User_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -505,
+                188
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -250,
+                188
+              ]
+            }
+          ]
+        }
+      },
+      "User/User_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                505,
+                188
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                250,
+                188
+              ]
+            }
+          ]
+        }
+      },
+      "OptionButton": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                375,
+                -67
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                375,
+                531
+              ]
+            }
+          ]
+        }
+      },
+      "Score_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -42,
+                347
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                105,
+                347
+              ]
+            }
+          ]
+        }
+      },
+      "Score_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                789,
+                347
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                645,
+                347
+              ]
+            }
+          ]
+        }
+      },
+      "Time": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 3,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 3,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

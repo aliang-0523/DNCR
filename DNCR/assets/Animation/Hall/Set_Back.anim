@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Set_Back",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.483333333333333,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Music": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                295
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                745,
+                295
+              ]
+            }
+          ]
+        }
+      },
+      "Add": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.4833333333333334,
+              "value": [
+                0,
+                -80
+              ]
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": [
+                745,
+                -80
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

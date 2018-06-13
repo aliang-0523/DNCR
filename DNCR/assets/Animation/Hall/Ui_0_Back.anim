@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ui_0_Back",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Matching": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -760
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "FriendPK": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                -760,
+                46
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                0,
+                46
+              ]
+            }
+          ]
+        }
+      },
+      "Shop": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                -893,
+                -200
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -130,
+                -200
+              ]
+            }
+          ]
+        }
+      },
+      "Set": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                -534,
+                -200
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                227,
+                -200
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

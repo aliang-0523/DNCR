@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d1d1ee50-efb1-4a85-a60e-2c1e3d49f34f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Leibie": {
+      "ver": "1.0.3",
+      "uuid": "92310f39-3af6-44bd-ab2b-a45f7965cf58",
+      "rawTextureUuid": "d1d1ee50-efb1-4a85-a60e-2c1e3d49f34f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 291,
+      "height": 102,
+      "rawWidth": 291,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

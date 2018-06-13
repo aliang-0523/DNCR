@@ -1,0 +1,157 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pipeiwancheng",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 9.5,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BackGround_Pipei_0": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.3166666666666667,
+              "value": [
+                909,
+                86
+              ]
+            },
+            {
+              "frame": 2.1333333333333333,
+              "value": [
+                598,
+                341
+              ]
+            },
+            {
+              "frame": 7.483333333333333,
+              "value": [
+                598,
+                341
+              ]
+            },
+            {
+              "frame": 8.733333333333333,
+              "value": [
+                920,
+                77
+              ]
+            }
+          ]
+        }
+      },
+      "BackGround_Pipei_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.016666666666666666,
+              "value": [
+                -156,
+                1232
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                151,
+                980
+              ]
+            },
+            {
+              "frame": 8.233333333333333,
+              "value": [
+                151,
+                980
+              ]
+            },
+            {
+              "frame": 9.483333333333333,
+              "value": [
+                -157,
+                1239
+              ]
+            }
+          ]
+        }
+      },
+      "Title": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 3.8666666666666667,
+              "value": 4
+            },
+            {
+              "frame": 5.116666666666666,
+              "value": 1
+            },
+            {
+              "frame": 7.7,
+              "value": 1
+            },
+            {
+              "frame": 8.816666666666666,
+              "value": 2.8715596330275224
+            },
+            {
+              "frame": 9.5,
+              "value": 4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 3.8666666666666667,
+              "value": 4
+            },
+            {
+              "frame": 5.116666666666666,
+              "value": 1
+            },
+            {
+              "frame": 7.7,
+              "value": 1
+            },
+            {
+              "frame": 8.816666666666666,
+              "value": 2.8715596330275224
+            },
+            {
+              "frame": 9.5,
+              "value": 4
+            }
+          ],
+          "active": [
+            {
+              "frame": 3,
+              "value": false
+            },
+            {
+              "frame": 3.966666666666667,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 7.716666666666667,
+              "value": 255
+            },
+            {
+              "frame": 9.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 8.333333333333334,
+      "func": "ShowDati",
+      "params": []
+    }
+  ]
+}

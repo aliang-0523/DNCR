@@ -1,0 +1,433 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Final",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 9.183333333333334,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "User/User_1/Fen": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -351,
+                -161
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                18,
+                -161
+              ]
+            }
+          ]
+        }
+      },
+      "User/User_2/Fen": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                353,
+                -161
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -20,
+                -161
+              ]
+            }
+          ]
+        }
+      },
+      "User/User_1/Fen/New Label": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 0.1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 0.1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "User/User_2/Fen/New Label": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 0.1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 0.1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Success": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.5,
+              "value": 0.1
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 1.2
+            },
+            {
+              "frame": 2.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.5,
+              "value": 0.1
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 1.2
+            },
+            {
+              "frame": 2.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jiesuan/Gold": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 4.166666666666667,
+              "value": [
+                -444,
+                0
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                -125,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jiesuan/Tiao_0": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.5,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 2.5,
+              "value": 0.1
+            },
+            {
+              "frame": 3,
+              "value": 1.3
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jiesuan/Tiao_1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 3.3333333333333335,
+              "value": 0.1
+            },
+            {
+              "frame": 3.8333333333333335,
+              "value": 1.3
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jiesuan/Exp": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 5,
+              "value": [
+                -444,
+                -130
+              ]
+            },
+            {
+              "frame": 5.833333333333333,
+              "value": [
+                -125,
+                -130
+              ]
+            }
+          ]
+        }
+      },
+      "Button/Continue": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7.166666666666667,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 7.166666666666667,
+              "value": 0.1
+            },
+            {
+              "frame": 7.833333333333333,
+              "value": 1.1
+            },
+            {
+              "frame": 8.166666666666666,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 7.166666666666667,
+              "value": 0.1
+            },
+            {
+              "frame": 7.833333333333333,
+              "value": 1.1
+            },
+            {
+              "frame": 8.166666666666666,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Button/Share": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 8.166666666666666,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 8.166666666666666,
+              "value": 0.1
+            },
+            {
+              "frame": 8.833333333333334,
+              "value": 1.1
+            },
+            {
+              "frame": 9.183333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 8.166666666666666,
+              "value": 0.1
+            },
+            {
+              "frame": 8.833333333333334,
+              "value": 1.1
+            },
+            {
+              "frame": 9.183333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jiesuan/Gold_L": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5.833333333333333,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 5.833333333333333,
+              "value": 0.1
+            },
+            {
+              "frame": 6.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 5.833333333333333,
+              "value": 0.1
+            },
+            {
+              "frame": 6.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jiesuan/Exp_L": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.5,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 6.5,
+              "value": 0.1
+            },
+            {
+              "frame": 7.166666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 6.5,
+              "value": 0.1
+            },
+            {
+              "frame": 7.166666666666667,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

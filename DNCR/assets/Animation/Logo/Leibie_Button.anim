@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Leibie_Button",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 7.983333333333333,
+  "sample": 60,
+  "speed": 6,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [],
+      "opacity": []
+    },
+    "paths": {
+      "Leibie": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                375,
+                1534
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                375,
+                982
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 255
+            },
+            {
+              "frame": 7.983333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "NO": {
+        "props": {
+          "scaleX": [],
+          "scaleY": []
+        }
+      },
+      "Leibie/NO": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            },
+            {
+              "frame": 3.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            },
+            {
+              "frame": 3.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "OptionButton": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.1,
+              "value": 0.1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            },
+            {
+              "frame": 3.4833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.1,
+              "value": 0.1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            },
+            {
+              "frame": 3.4833333333333334,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

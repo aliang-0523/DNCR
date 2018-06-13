@@ -1,0 +1,115 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ui_1_Back",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6,
+  "sample": 60,
+  "speed": 15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Center_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -130,
+                292
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -900,
+                292
+              ]
+            }
+          ]
+        }
+      },
+      "Center_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.4833333333333334,
+              "value": [
+                -130,
+                47
+              ]
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": [
+                -900,
+                47
+              ]
+            }
+          ]
+        }
+      },
+      "Center_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                -130,
+                -200
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -900,
+                -200
+              ]
+            }
+          ]
+        }
+      },
+      "Shop": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.4833333333333334,
+              "value": [
+                227,
+                47
+              ]
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": [
+                -535,
+                47
+              ]
+            }
+          ]
+        }
+      },
+      "Set": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                227,
+                292
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -535,
+                292
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
